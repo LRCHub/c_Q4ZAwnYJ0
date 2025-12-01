@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ズルい女",
+  "base_artist": "Sharam Q",
+  "createdAt": "2025-12-01T22:02:00.507999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ズルい女",
+      "artist": "シャ乱Q",
+      "has_synced": true,
+      "path": "select/01_ズルい女_シャ乱Q.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ズルい女",
+      "artist": "OnlyOneOf",
+      "has_synced": true,
+      "path": "select/02_ズルい女_OnlyOneOf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ズルい女",
+      "artist": "シャ乱Q",
+      "has_synced": true,
+      "path": "select/03_ズルい女_シャ乱Q.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ズルい女",
+      "artist": "Sho Kiryuuin",
+      "has_synced": true,
+      "path": "select/04_ズルい女_Sho_Kiryuuin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ズルい女 - Zurui Onna",
+      "artist": "Sharam Q",
+      "has_synced": true,
+      "path": "select/05_ズルい女_-_Zurui_Onna_Sharam_Q.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ズルい女",
+      "artist": "Sharam Q",
+      "has_synced": true,
+      "path": "select/06_ズルい女_Sharam_Q.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ズルい女",
+      "artist": "misono",
+      "has_synced": false,
+      "path": "select/pl_01_ズルい女_misono.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ズルい女",
+      "artist": "misono",
+      "has_synced": false,
+      "path": "select/pl_02_ズルい女_misono.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ズルい女",
+      "artist": "misono",
+      "has_synced": false,
+      "path": "select/pl_03_ズルい女_misono.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ズルい女",
+      "artist": "misono",
+      "has_synced": false,
+      "path": "select/pl_04_ズルい女_misono.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ズルい女",
+      "artist": "misono",
+      "has_synced": false,
+      "path": "select/pl_05_ズルい女_misono.txt"
+    }
+  ]
+}
